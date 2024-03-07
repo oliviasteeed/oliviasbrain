@@ -1,0 +1,155 @@
+---
+tags:
+  - input
+links: "[[My Inputs]]"
+---
+## books i want to read
+- [ ] the pathless path
+- [ ] creativity inc
+- [ ] SELL LIKE CRAZY: How to Get As Many Clients, Customers and Sales As You Can Possibly Handle
+- [ ] feel good productivity
+- [ ] existentialism is humanism
+- [ ] urban playground
+- [ ] palaces for the people
+- [ ] the obstacle is the way
+- [ ] how to do things with emotions
+- [ ] how to think when you draw
+- [x] neurotribes
+- [ ] emotional intelligence 2.0
+- [ ] can your identity survive vr?
+- [ ] whore of new york
+- [ ] how to win friends and influence people
+- [ ] how to stop worrying
+- [ ] the art of seduction
+- [x] the big leap (gay hendricks)
+- [ ] mending broken windows
+- [ ] happiness at work
+- [ ] what nobody tells fat girls
+- [ ] seneca (thoughts on death? on the shortness of life?)
+- [ ] aristotle
+- [ ] plato
+- [ ] emergence by temple grandin
+- [ ] the manufacture of madness
+- [ ] fooled by randomness
+- [ ] nobody nowhere
+- [ ] gift from the sea
+- [ ] digital minimalism
+- [ ] the joy of missing out
+- [ ] the way of the warrior
+- [ ] bored and brilliant
+- [ ] experiences in creative thinking
+- [x] myth of normal
+- [ ] the black swan
+- [ ] camera lucida
+- [ ] mythologies
+- [x] mind in motion
+- [ ] humankind
+- [ ] queer city
+- [ ] meditations
+- [ ] the botany of desir**e**
+- [ ] Laws of ux
+- [ ] Branded interactions
+- [x] how to sit
+- [ ] don norman new book
+- [ ] that one from the cjx stranger things video
+- [x] love sex and tragedy how historic shapes modern life
+- [ ] force of character
+- [ ] the gift of restlessness
+- [ ] platonic
+- [ ] the history of god
+- [x] happy city
+- [ ] essential spiritual writings
+- [ ] delusions of gender
+- [ ] untrue
+- [ ] feminism is for everybody: passionate politics
+- [ ] sex and temperament
+- [ ] the sound of a wild snail eating
+- [ ] sirens of mars
+- [ ] the four agreements
+- [ ] edward turfte info viz books
+- [ ] technologies of the human corpse
+- [ ] death glitch
+- [ ] nobody nowhere
+- [ ] how to take smart notes
+- [ ] the philosophy of right
+- [ ] art as experience john dewey
+- [ ] user friendly
+- [ ] creative selection
+- [ ] bittersweet
+**from john**
+- [ ] storyworthy
+- [ ] four thousand weeks
+- [ ] thinking in bets
+- [ ] limitless (bad he says don't read)
+- [ ] transcend - the new science
+- [ ] para method
+- [x] attached
+**from aidan (john's course)**
+- [ ] make it stick
+- [ ] awareness by anthony de mello
+- [ ] The Category Design Toolkit
+- [ ] Transcend
+- [ ] Storyworthy
+- [ ] The Extended Mind
+- [ ] Thinking, Fast and Slow by Daniel Kahneman
+- [ ] The Pathless Path
+- [ ] The Meditations
+- [ ] The Coddling of the American Mind
+- [ ] Dopamine Nation by Anna Lembke
+- [ ] Flow The Psychology of Optimal Experience 🪄Fiction Books:
+- [ ] 1984
+- [ ] The Stormlight Archives
+- [ ] The Hitchhiker's Guide to the Galaxy
+- [ ] Siddhartha
+- [ ] Ready Player One
+- [ ] The First Law Trilogy
+- [ ] stumbling on happiness
+- [ ] the art of focus
+
+## short stories
+- [ ] There will come soft rains Ray Bradburry
+## podcasts
+- secret life of canada
+- vibes
+- 'awakening from the meaning crisis'🙄
+- adam grant?
+- the daily stoic
+
+**podcasts from Aidan**
+- [ ] Controlling Your Dopamine for Motivation, Focus & Satisfaction Episode 39
+- [ ] Alonement How to Be Alone and Happy - Francesca Spectre
+- [ ] How Anyone Can Develop the Mindset of a Multi-Million Dollar Entrepreneur - Daniel Priestley
+- [ ] Happiness 2.0 The Path to Contentment
+- [ ] The Pathless Path How to Recreate Your Life In 2023
+- [ ] Someday Is Today — Achieve Your Goals and Live Without Regret - Matthew Dicks
+- [ ] The Quiet Catastrophe Brewing In Our Social Lives
+- [ ] Louise Perry — the Case Against the Sexual Revolution
+- [ ] Ep. 31 — RYAN HOLIDAY on Ranch Life, Fostering Discipline, and the Loss of Reading Culture
+- [ ] EP144 Happiness Expert Returns Retrain Your Brain For Maximum Happiness Mo Gawdat ✍️Articles:
+- [ ] Some Stoic Musings on Loneliness by Kevin Vost
+- [ ] The Complete Guide to Memory
+- [ ] The Future of Education Is Community The Rise of Cohort-Based Courses
+- [ ] 🌲 How Obsidian Replaced Video Games & Helped Me Publish
+- [ ] Why People Believe Others’ Social Lives Are Richer Than Their Own
+- [ ] 🦘The Skip Test
+- [ ] The Objectivity Illusion
+- [ ] The Audio Revolution
+- [ ] My 12 Hour Walk
+- [ ] Work Life Balance Is Impossible
+## videos from aidan (john's course)
+- [ ] How to Stop Overthinking
+- [ ] Life Is a Video Game (Here’s How You Win)
+- [ ] The Paradox of Choice Barry Schwartz
+- [ ] Dan Koe & Dickie Bush On One-Person Businesses, Creative Workflows, and Lifestyle Design
+- [ ] Revealing Ship 30's Million-Dollar Marketing Strategy Espresso Hour E13
+- [ ] Navigating uncertainty as a creator with Paul Millerd
+- [ ] The Best Relationship Advice No One Tells You
+- [ ] Ram Dass – Here and Now – Ep. 130 – The Spiritual Path
+- [ ] Early 20s Syndrome, Paid Newsletter Empire, and Focus Framework
+- [ ] How ‘purpose’ works
+## movies i want to watch
+- [ ]  rain man
+- [ ] soul
+- [x] Bodies bodies bodies
+
+- old one's that are referenced? but what are they?
