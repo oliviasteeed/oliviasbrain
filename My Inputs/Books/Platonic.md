@@ -10,9 +10,12 @@ author: Marisa G. Franco
 ---
 ## Summary
 ### Context
-- 
+- 2022
 ### Main Takeaways
-- 
+- friends are more important for wellbeing than sleep and exercise
+- a romantic interest cannot fully fulfill you
+- reach out first, take initiative, assume others like you and they will
+- be romantic and affectionate in friendships to build intimacy and closeness
 ### Questions/Connections/Thoughts
 - 
 ## Notes
@@ -264,5 +267,46 @@ Be Responsive
 
 > =="the internet has given us relationships built on shared interests without accountability to each other"==
 - only want the good but none of the effort, community means obligation to each other
-- 
-> 
+
+- fight, flight, fawn - give to people to try to earn love, acting generously to feel better yourself - worse for wellbeing than altruism
+- goal is not selflessness but enlightened self interest - give and take, when we sacrifice to give we become unmitigated givers - worse wellbeing and resentment, more stressed and depressed, worse relationships
+- "when we are absorbed by others, we shed the parts of ourselves we want to escape... we're so consumed by people, we forget for a moment the heaviness of being a person"
+- understand what you are trying to run away from, aspire to generosity equilibrium so it is sustainable
+- **give** yourself permission to ask for what you want
+- rules of generosity change for closest friends - saying internet stuff like "im at capacity reach out later" is a betrayal - high quality friends are expected to be there to support in times of need 
+- what's appropriate depends on closeness - communal relationships - deepest and most vulnerable, give even if it costs us, definition of love, support deeply, listening, cheering them up, we find them when we give them - support in times of need is key factor that makes us more secure, makes us reciprocate
+- "boundaries" are justified individualism from self esteem movement, healthy/communal boundaries are offering what you can even if it is not always the same - we prioritize someone else in crisis unless we are in crisis ourselves, protect the relationship while also protecting ourselves
+- academic argument about communal relationships played out over series of research papers lol
+- "unspoken expectations are premeditated resentments" - tell people what you need and share what you are going through so people have accurate expectations, give to each other, affirm that their needs are important
+- being selfish makes you lonely! be a friend to your friends 
+- larger network means less strong connections, research finds that half our friends don't consider us friends
+- love is automatic empathy - giving to them is giving to us, love is well of energy to help
+
+## Affection
+- no white lies, total honesty
+- gush about each other
+- romatic friendships - we are limited by social norms of what friends should be, only permission to be affectionate with significant others, friends are more transient, potentially uncomitted, no script
+- technology - loose tie culture, instead ask who you want to keep in your life in an intentional way
+- sexual love and romantic/passionate love are different things - best friends are excited about each other, territorial, idealize
+- traditional view that marriage could not be for something as fragile as love, man and woman need to come together to complete each other but too different to connect so form romantic friendships with same sex, distance between friends started with rise of homophobia - once homosexual became a sexual disorder/sexual identity, when people moved to cities they were less barred by small town expectations so did all kinds of sex stuff, psych and homophobia was used to control this into protestant work ethic
+- straight book
+- feel pressure to conceal best friend love - homohysteria
+
+Express Affection - intimacy
+- express affection for each other - makes you closer no matter how close you are all ready
+- people like people who like them, most important quality of friends is making us feel good, we want to feel like we matter
+- immediacy - becoming closer by sharing what you like about people, we think it will freak them out but they actually like us more
+- safety is cultivated through vulnerability and affection
+- protecting ourselves is at odds with protecting our relationships
+- invest in others and they will invest in us
+- affection makes our friends feel secure - know they can trust us, melt into secure - everything you do makes people more or less secure
+- more satisfied with relationships when they are happy for our joy than when upset for our pain
+- risk regulation theory - making friends is about making other people feel safe 
+- feel, express, received as affection
+- lower self esteem downplay and don't see affection cues to avoid feeling rejection
+- "low self esteem can make another's love feel threatening"
+- show others affection, ask how they want it
+
+## Conclusion
+- friendship is more important for wellbeing than healthy eating and exercise
+- don't take friends for granted! they are the light of life! reach out first!
