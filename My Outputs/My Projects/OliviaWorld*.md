@@ -79,6 +79,30 @@ yes i want mytakeaway online still - add
 - sun moon colour change
 - links a different colour?
 
+## TODO
+- [ ] gif for scroll down
+- [ ] gif for site title
+	- [ ] flower
+	- [ ] hand
+	- [ ] scribble - should they be hand or graphic or both? sharpie on plastic? pencil? ooh collage yesss
+	- [ ] other pen doodles
+	- [ ] aesthetic pics - all self created tho
+- [ ] default project page template
+- [ ] hover image preview
+	- [ ] pixel gif/sketch?
+	- [ ] image/video?
+- [x] title in the middle
+- [ ] links to other projects in footer
+
+- [ ] would be very cool if it only flipped through on hover and stayed at last one when not hovering !!! how tho - it can be done
+- [ ] simplify gif - same amount each section?
+
+
+- [ ] highlight colour change
+- [ ] toggle to dark/light mode
+- [ ] blur text under header bar?
+	- [ ] or have site title scroll up and sides stay?
+
 ## Visual Qualities
 Some Trends  
 - collage grunge  

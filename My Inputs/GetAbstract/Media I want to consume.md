@@ -4,6 +4,7 @@ tags:
 links: "[[My Inputs]]"
 ---
 ## books i want to read
+- [ ] how to be perfect
 - [ ] the pathless path
 - [ ] creativity inc
 - [ ] SELL LIKE CRAZY: How to Get As Many Clients, Customers and Sales As You Can Possibly Handle
